@@ -1,0 +1,12 @@
+
+{
+  "name": "FoodFeed",
+  "version": "0.0.1",
+  "description": "FoodFeed REST API 문서",
+  "title": "FoodFeed REST API",
+  "url" : "",
+  "header": {
+    "title": "HTTP request Headers",
+    "filename": "doc/header.md"
+  }
+}
