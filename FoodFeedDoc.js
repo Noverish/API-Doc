@@ -19,7 +19,7 @@
  *
  * @apiParamExample {json} Request-Example:
  {
-     "token": "asdf1234",
+     "facebook_token": "asdf1234",
      "user_name": "다이어트짱"
  }
  *
@@ -35,7 +35,7 @@
  * @apiName auth_login
  * @apiGroup auth
  *
- * @apiParam {String} token Facebook 유저 id
+ * @apiParam {String} facebook_token Facebook 유저 id
  *
  * @apiSuccessExample {json} Success-Response:
  HTTP/1.1 200 OK
